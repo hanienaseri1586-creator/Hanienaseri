@@ -1,7 +1,1 @@
-﻿namespace Domain
-{
-    public class Class1
-    {
-
-    }
-}
+Console.WriteLine("hello");
